@@ -1,6 +1,8 @@
 # Hi there, I'm Val Mykel Ceven Bolante! 👋  
 ![GitHub Profile Banner](https://via.placeholder.com/1200x400/1e3a8a/ffffff?text=Welcome+to+My+GitHub+Profile)
 
+<iframe src="https://giphy.com/embed/bqd2d3SHaOEFhhar3o" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ToeiAnimation-one-piece-zoro-straw-hat-bqd2d3SHaOEFhhar3o">via GIPHY</a></p>
+
 ## 🌟 **About Me**  
 I’m a passionate **Computer Science Student** from **Cebu, Philippines**, constantly learning and exploring the endless possibilities of technology. From web development to data science, I love building projects that make an impact!  
 
