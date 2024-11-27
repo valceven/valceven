@@ -1,4 +1,9 @@
-# Hi There Welcome To My Domain!
+# Hi there, I'm Val Mykel Ceven Bolante! 👋  
+![GitHub Profile Banner](https://via.placeholder.com/1200x400/1e3a8a/ffffff?text=Welcome+to+My+GitHub+Profile)
+
+## 🌟 **About Me**  
+I’m a passionate **Computer Science Student** from **Cebu, Philippines**, constantly learning and exploring the endless possibilities of technology. From web development to data science, I love building projects that make an impact!  
+
 
 
 # 💻 Tech Stack:
