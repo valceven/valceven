@@ -1,5 +1,5 @@
 # Hi there, I'm Val Mykel Ceven Bolante! 👋  
-![GitHub Profile Banner](<iframe src="https://giphy.com/embed/bqd2d3SHaOEFhhar3o" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ToeiAnimation-one-piece-zoro-straw-hat-bqd2d3SHaOEFhhar3o">via GIPHY</a></p>e)
+![GitHub Profile Banner](https://media.giphy.com/media/bqd2d3SHaOEFhhar3o/giphy.gif)
 
 
 ## 🌟 **About Me**  
