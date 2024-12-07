@@ -1,5 +1,5 @@
 # Hi there, I'm Val Mykel Ceven Bolante! 👋  
-![GitHub Profile Banner]([https://media.giphy.com/media/bqd2d3SHaOEFhhar3o/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2d3eHh0bWlzZWY2Y3dqaWI4b2MybmJyeW0ybDhsbmgwN3Z4azliOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KZFrf9JusXzmpnPsT6/giphy-downsized-large.gif))
+![GitHub Profile Banner](https://giphy.com/embed/KZFrf9JusXzmpnPsT6" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loop-flow-electric-KZFrf9JusXzmpnPsT6))
 
 
 ## 🌟 **About Me**  
