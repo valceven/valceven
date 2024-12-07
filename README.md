@@ -1,5 +1,5 @@
 # Hi there, I'm Val Mykel Ceven Bolante! 👋  
-![GitHub Profile Banner](https://media.giphy.com/media/KZFrf9JusXzmpnPsT6/giphy.gif)
+![Cool Electric Flow GIF](https://media.giphy.com/media/KZFrf9JusXzmpnPsT6/giphy.gif)
 
 
 ## 🌟 **About Me**  
