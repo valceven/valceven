@@ -4,7 +4,7 @@
 ---
 
 ## 🌟 **About Me**  
-I'm a passionate **Computer Science Student** from **Cebu, Philippines**, exploring the endless possibilities of technology. From web development to data science, I enjoy building projects that **make an impact**!
+I'm a passionate **Computer Science Student** from **Cebu, Philippines**, exploring the endless possibilities of technology. From software development to AI, I enjoy building projects that **make an impact**!
 
 ---
 
