@@ -2,7 +2,8 @@
 
 # Hi there, I'm **ValCeven**! 👋
 
-![Cool Electric Flow GIF](https://media.giphy.com/media/a62H5GVd7a3ck0EkuE/giphy.gif)
+![SF24](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXQ3YWNiNmpoOW85M29hc211NWlwdmlmZXQ2cXJhaWczdm05dmFyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g8Jcxh1rACsjwUZdwx/giphy.gif)
+
 
 ### 🌟 Computer Science Student from Cebu, Philippines
 *Exploring the endless possibilities of technology and building projects that make an impact!*
