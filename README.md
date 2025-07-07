@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hi there, I'm **ValCeven**! 👋
+# Hi there, I'm **valceven**! 👋
 
 ![SF24](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzM2NHkxMHR0cWw0MDgxaXNsZ2Ztc2dlcHUxaHoyNGtseHVsOHNrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JEMluRKjLqNi2neWkc/giphy.gif)
 
 
 ### 🌟 Computer Science Student from Cebu, Philippines
-*Exploring the endless possibilities of technology and building projects that make an impact!*
+*WOWZA!*
 
 ---
 
