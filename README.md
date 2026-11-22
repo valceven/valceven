@@ -16,11 +16,14 @@ I'm Ceven. I build web apps from the interface down to the database. I'm especia
 ## Experience
 
 ### Hayahai
-**Software Developer** · Joined Hayahai as an intern in May 2025.
 
-I work across React and Next.js interfaces, NestJS services, and PostgreSQL data access with Prisma and Kysely. My contributions include application features, API integrations, query improvements, and refactoring existing systems.
+**Software Engineer** · Nov 2026–Present  
+I build and maintain features across React and Next.js interfaces, NestJS APIs, and PostgreSQL. My work includes integrating APIs, improving queries with Prisma and Kysely, and refactoring existing code.
 
-<sub>Work is described at a high level to respect confidentiality and NDA obligations.</sub>
+**Software Development Intern** · May 2025–Nov 2026  
+I contributed to feature development, bug fixes, and testing across the application.
+
+*Work is summarized at a high level to respect confidentiality and NDA obligations.*
 
 ## Selected projects
 
