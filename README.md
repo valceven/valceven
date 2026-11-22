@@ -65,9 +65,10 @@ BS Computer Science
 
 Ferrari on race weekends, espresso between builds, and One Piece after hours. Pikachu gets a spot on the team.
 
-<picture>
-  <img src="assets/blue-divider.svg" alt="" width="100%">
-</picture>
+---
 
-**Open to remote engineering roles and freelance projects.**  
-Interested in building and improving web applications, APIs, and internal tools.
+### Got something in mind? Let’s talk.
+
+I’m always up for a good conversation about tech, side projects, or what you’re building next.
+
+[Say hi on LinkedIn](https://www.linkedin.com/in/valceven/) · [Drop me an email](mailto:valmykelcevenbolante@gmail.com)
