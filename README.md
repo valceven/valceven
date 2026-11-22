@@ -1,3 +1,5 @@
+![Royal-blue illustrated banner with a red Formula 1 car, Pikachu, a straw hat and espresso](assets/ceven-banner.svg)
+
 # Val Mykel Ceven Bolante
 
 **Full-Stack Software Engineer**  
@@ -5,20 +7,20 @@ Web applications · Backend systems · AI-assisted development
 
 Philippines · [LinkedIn](https://www.linkedin.com/in/valceven/) · [Email](mailto:valmykelcevenbolante@gmail.com)
 
-I'm Ceven. I build and maintain web applications across the frontend, backend, and database. My professional experience has deepened my focus on backend architecture, efficient data access, and software that is easier to maintain.
+I'm Ceven. I build web apps from the interface down to the database. I'm especially interested in how APIs, data access, and architecture choices make a system easier to maintain.
 
----
+<picture>
+  <img src="assets/blue-divider.svg" alt="" width="100%">
+</picture>
 
 ## Experience
 
 ### Hayahai
-<sub>Formerly Ayahay · Professional full-stack development</sub>
+**Software Developer** · Joined Hayahai as an intern in May 2025.
 
 I work across React and Next.js interfaces, NestJS services, and PostgreSQL data access with Prisma and Kysely. My contributions include application features, API integrations, query improvements, and refactoring existing systems.
 
-Working with an evolving codebase has strengthened how I approach service boundaries, database changes, debugging, and code review.
-
-<sub>Professional work is summarized at a high level to respect confidentiality and NDA obligations.</sub>
+<sub>Work is described at a high level to respect confidentiality and NDA obligations.</sub>
 
 ## Selected projects
 
@@ -51,7 +53,18 @@ A collaborative research project connecting a Raspberry Pi imaging device, a Pyt
 
 I use coding agents for focused implementation, refactoring, and debugging, supported by repository context, clear task boundaries, code review, and verification.
 
----
+## Education
+
+**Cebu Institute of Technology – University** · 2022–2026  
+BS Computer Science
+
+## Off the clock
+
+Ferrari on race weekends, espresso between builds, and One Piece after hours. Pikachu gets a spot on the team.
+
+<picture>
+  <img src="assets/blue-divider.svg" alt="" width="100%">
+</picture>
 
 **Open to remote engineering roles and freelance projects.**  
 Interested in building and improving web applications, APIs, and internal tools.
